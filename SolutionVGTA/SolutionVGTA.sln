@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vgta", "Vgta\Vgta.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vgta.Data", "Vgta.Data\Vgta.Data.csproj", "{331550E5-F3E0-42E8-8CCB-2CA4E8FC1FCA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vgta.Domain", "Vgta.Domain\Vgta.Domain.csproj", "{4DF3E078-82CC-4034-A5D2-1E96F0058856}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vgta.Service", "Vgta.Service\Vgta.Service.csproj", "{D7579348-AB60-4FA7-B117-47D994AB6113}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{331550E5-F3E0-42E8-8CCB-2CA4E8FC1FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{331550E5-F3E0-42E8-8CCB-2CA4E8FC1FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{331550E5-F3E0-42E8-8CCB-2CA4E8FC1FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DF3E078-82CC-4034-A5D2-1E96F0058856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF3E078-82CC-4034-A5D2-1E96F0058856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF3E078-82CC-4034-A5D2-1E96F0058856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF3E078-82CC-4034-A5D2-1E96F0058856}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7579348-AB60-4FA7-B117-47D994AB6113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7579348-AB60-4FA7-B117-47D994AB6113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7579348-AB60-4FA7-B117-47D994AB6113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7579348-AB60-4FA7-B117-47D994AB6113}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
